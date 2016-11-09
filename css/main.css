@@ -332,9 +332,9 @@ code, pre { font-family: "Source Code Pro", "Inconsolata", monospace; font-weigh
 .page-newsletter-heading .icons .fa { display: block; font-size: 42px; height: 120px; line-height: 120px; text-align: center; width: 120px; bottom: 0; left: 0; position: absolute; right: 0; top: 0; }
 .page-newsletter-heading .icons .fa-television { font-size: 84px; }
 .page-newsletter-heading .icons .fa-play-circle { color: white; left: -3px; top: -6px; }
-.page-newsletter-heading h3 { color: white; font-size: 32px; line-height: 1; position: relative; }
+.page-newsletter-heading h3 { color: white; line-height: 1; position: relative; }
 .page-newsletter-heading p { font-size: 18px; }
-@media screen and (min-width: 960px) { .page-newsletter-heading h3 { font-size: 40px; }
+@media screen and (min-width: 960px) { .page-newsletter-heading h3 { }
   .page-newsletter-heading p { font-size: 20px; margin-top: 5px; } }
 
 .page-newsletter-form { margin: 30px auto 0; max-width: 480px; }
