@@ -524,6 +524,8 @@ html.has-menu-open .page-overlay, html.has-menu-open .page-menu, html.has-menu-o
 .altcolor { background-color: #6ecd56; }
 .article-element { clear: both; }
 .news > div { float: left; }
+.ma-green {color: #89ff6b; }
+.ma-logo {height: 360px; }
 
 .t-container {
   width: 55%;
