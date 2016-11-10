@@ -522,7 +522,7 @@ html.has-menu-open .page-overlay, html.has-menu-open .page-menu, html.has-menu-o
 @media screen and (min-width: 960px) { .index-hello-content { padding: 120px 0; } }
 
 .altcolor { background-color: #6ecd56; }
-.article-element { clear: both; }
+.article-element { clear: both; padding: 20px; }
 .news > div { float: left; }
 .ma-green {color: #89ff6b; }
 .ma-logo {height: 360px; }
